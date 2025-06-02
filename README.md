@@ -1,1 +1,1 @@
-Data-Science-Projects-with-Python is a repository dedicated to study and development of the projects available in the book "Data Science Projects with Python: A case study approach to successful data science projects using Python, pandas, and scikit-learn" by Stephen Klosterman
+Data-Science-Projects-with-Python is a repository dedicated to the study and development of projects available in the book "Data Science Projects with Python: A case study approach to successful data science projects using Python, pandas, and scikit-learn" by Stephen Klosterman
